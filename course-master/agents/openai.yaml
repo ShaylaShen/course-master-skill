@@ -1,0 +1,4 @@
+interface:
+  display_name: "CourseMaster"
+  short_description: "Turn course slides into exam-ready study guides"
+  default_prompt: "Use $course-master to turn PPT/PDF course materials into an outline, study guide, and practice questions."
