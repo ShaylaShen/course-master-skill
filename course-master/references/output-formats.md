@@ -87,6 +87,9 @@ Depth rules:
 Logic Summary rules:
 
 - Include a `Logic Summary` for the outline and for every chapter in the final guide.
+- The final guide's `Logic Summary` must be at least as specific as the outline's `Priority logic summary`.
+- During expansion, do not shorten or weaken the outline's logic summary; refine and deepen it.
+- For Standard Guide, write 3-5 sentences. For Concise Guide, write 2-3 sentences.
 - Write it as synthesis, not as a generic recap.
 - Explain the relationship among the chapter's key points, such as mechanism, sequence, contrast, evidence chain, or central problem.
 - End with a useful study frame, such as "复习时应按..." or "考试应优先掌握...".
